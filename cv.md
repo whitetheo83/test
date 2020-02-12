@@ -34,3 +34,4 @@ form.onsubmit = function (evt) {
 6. Coding test on *Codewars*. 
 7. I started to study at rsschool. Finished all free and some paid html academy courses. Learn.javascript.ru. Read Savin - Testing dot com. webref.ru, htmlbook (learn html & css). 
 8. Begin english.
+
