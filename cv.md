@@ -32,5 +32,5 @@ form.onsubmit = function (evt) {
   list.append(listLine);  };
 ```
 6. Coding test on Codewars. 
-7. I started to study at rsschool. Finished all free and some paid html academy courses. Learn.jav ascript.ru. Savin - Testing dot com. webref.ru, htmlbook (learn html & css). 
+7. I started to study at rsschool. Finished all free and some paid html academy courses. Learn.javascript.ru. Read Savin - Testing dot com. webref.ru, htmlbook (learn html & css). 
 8. Begin english.
